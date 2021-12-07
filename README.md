@@ -35,6 +35,7 @@ __(必背：紫色；核心：蓝色；重点：绿色；普通：黄色；默�
   - [排列组合](#排列组合)
   - [二叉树](#二叉树)
   - [图](#图2)
+  - [矩阵](#矩阵Matrix)
 - 第六章 数据结构
   - [Array & Matrix](#Array-and-Matrix)
   - [String](#String)
@@ -413,6 +414,12 @@ __(必背：紫色；核心：蓝色；重点：绿色；普通：黄色；默�
 - [126. Word Ladder II](https://leetcode.com/problems/word-ladder-ii/)
 - [290. Word Pattern](https://leetcode.com/problems/word-pattern/)
 - [291. Word Pattern II](https://leetcode.com/problems/word-pattern-ii/)
+
+
+
+## 矩阵Matrix
+
+- [490. The Maze](https://leetcode.com/problems/the-maze)[490. The Maze](https://leetcode.com/problems/the-maze)
 
 
 
