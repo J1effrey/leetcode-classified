@@ -1,5 +1,3 @@
-# leetcode-classified
-
 __(必背：紫色；核心：蓝色；重点：绿色；普通：黄色；默认是LeetCode，如果是LintCode会以Lint开头)__
 
 # 目录
@@ -608,15 +606,10 @@ __(必背：紫色；核心：蓝色；重点：绿色；普通：黄色；默�
 ## Double Sequences 双序列型
 
 - [10. Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/)
-
 - [44. Wildcard Matching](https://leetcode.com/problems/wildcard-matching/)
-
 - [1143. Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/)
-
 - [72. Edit Distance](../../topics/lc72.java)   [:one:](https://leetcode.com/problems/edit-distance/)  
-
 - [97. Interleaving String](https://leetcode.com/problems/interleaving-string/)
-
 - [115. Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/)
 
   
@@ -675,4 +668,4 @@ __(必背：紫色；核心：蓝色；重点：绿色；普通：黄色；默�
 
 ## Top K
 
-- [692. Top K Frequent Words](../../topics/lc692.java)
+- [692. Top K Frequent Words](../../topics/lc692.java)   [:blossom:](https://leetcode.com/problems/top-k-frequent-words)
