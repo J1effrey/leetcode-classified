@@ -392,7 +392,6 @@ __(必背：紫色；核心：蓝色；重点：绿色；普通：黄色；默�
 - [254. Factor Combinations](https://leetcode.com/problems/factor-combinations/)   [:bowling:](https://leetcode.com/problems/factor-combinations/)
 - [301. Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/)
 - [491. Increasing Subsequences](https://leetcode.com/problems/increasing-subsequences/)  
-- [301. Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/)
 - [37. Sudoku Solver](https://leetcode.com/problems/sudoku-solver/)
 - [93. Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/)
 - [131. Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/)
@@ -425,7 +424,7 @@ __(必背：紫色；核心：蓝色；重点：绿色；普通：黄色；默�
 
 ## 矩阵Matrix
 
-- [490. The Maze](https://leetcode.com/problems/the-maze)[490. The Maze](https://leetcode.com/problems/the-maze)
+- [490. The Maze](https://leetcode.com/problems/the-maze)     [:dagger:](https://leetcode.com/problems/the-maze)
 
 
 
